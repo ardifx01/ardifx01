@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- Banner Atas -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6E27F,100:C68B59&height=220&section=header&text=Welcome%20to%20My%20GitHub%20✨&fontSize=42&fontAlignY=40&desc=Developer%20|%20Pentester%20|%20Cloud%20Architect&descAlignY=60&descAlign=50&fontColor=2B2B2B" />
+</p>
 
-<!--
-**ardifx01/ardifx01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Spectral&weight=700&size=24&pause=1200&color=C68B59&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+GitHub+Saya;Membangun+aplikasi+aman+dan+scalable;Pentester%20|%20Developer%20|%20Cloud%20Architect" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Tentang Saya / About Me
+Halo, saya seorang **Developer & Pentester** yang berfokus pada pengembangan software aman dan scalable.  
+Hello, I'm a **Developer & Pentester** passionate about building secure & scalable software solutions.  
+
+🎯 Fokus utama:  
+- 🔐 Web & Network Penetration Testing  
+- 🖥️ Backend Development (Node.js, Laravel, Golang)  
+- ☁️ Cloud Infrastructure (AWS, Docker, Kubernetes)
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,go,nodejs,typescript,laravel,express,react" height="50" style="margin:10px;" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,docker,kubernetes,linux,git,aws,gcp" height="50" style="margin:10px;" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&title_color=F6E27F&icon_color=C68B59&text_color=D9D9D9&bg_color=1A1A1A&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&title_color=F6E27F&text_color=D9D9D9&bg_color=1A1A1A&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&ring=C68B59&fire=F6E27F&currStreakLabel=F6E27F&sideLabels=D9D9D9&sideNums=D9D9D9&dates=8C8C8C&background=1A1A1A&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🔥 Latest Projects
+<!--START_PROJECTS-->
+<!--END_PROJECTS-->
+
+---
+
+## 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-C68B59?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/yourtelegramusername"><img src="https://img.shields.io/badge/Telegram-F6E27F?style=for-the-badge&logo=telegram&logoColor=2B2B2B" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-2B2B2B?style=for-the-badge&logo=firefox&logoColor=F6E27F" /></a>
+</p>
+
+---
+
+## 📜 Kutipan Hari Ini
+<!--START_QUOTE-->
+<!--END_QUOTE-->
+
+---
+
+## 🧩 Fun Facts
+- Sedang belajar **Rust & Blockchain Security**  
+- Pernah menemukan bug bounty di beberapa platform besar  
+- Kopi + ngoding = produktif  
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C68B59,100:F6E27F&height=120&section=footer"/>
+</p>
