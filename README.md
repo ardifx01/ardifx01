@@ -65,9 +65,8 @@ Hello, I'm a **Developer & Pentester** passionate about building secure & scalab
 ---
 
 ## 🧩 Fun Facts
-- Sedang belajar **Rust & Blockchain Security**  
-- Pernah menemukan bug bounty di beberapa platform besar  
-- Kopi + ngoding = produktif  
+- Malas ngoding  
+- Ngevape + ngoding = produktif  
 
 ---
 
