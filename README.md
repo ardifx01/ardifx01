@@ -23,7 +23,7 @@ Hello, I'm a **Developer & Pentester** passionate about building secure & scalab
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,go,nodejs,typescript,laravel,express,react,django,vite,vue,tailwind,nuxtjs,kotlin,swift,flutter,godot,dart" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=python,php,go,nodejs,typescript,express,react,vite,vue,tailwind,nuxtjs,kotlin,swift,flutter,dart" height="50" style="margin:10px;" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,docker,kubernetes,linux,git,aws,gcp,mongodb,firebase,azure" height="50" style="margin:10px;" />
