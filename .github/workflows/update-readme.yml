@@ -34,7 +34,7 @@ jobs:
         run: pip install requests
 
       - name: Update quote section
-        run: python readme.py
+        run: python .github/workflows/readme.py
 
       # --- Step 4: Commit Changes ---
       - name: Commit changes
