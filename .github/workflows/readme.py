@@ -1,6 +1,7 @@
 import requests
 import random
-from datetime import datetime
+import re
+from datetime import datetime, timezone
 
 fallback_quotes = [
     # Indonesia
@@ -11,7 +12,7 @@ fallback_quotes = [
     "Tidak ada hasil yang mengkhianati usaha. – Unknown",
     "Jangan menunggu kesempatan, ciptakanlah kesempatan itu sendiri. – Unknown",
     "Lebih baik menjadi lilin kecil yang memberi cahaya daripada kutuk dalam kegelapan. – Unknown",
-    "Pendidikan adalah senjata paling ampuh untuk mengubah dunia. – Nelson Mandela (kutipan populer di Indonesia juga)",
+    "Pendidikan adalah senjata paling ampuh untuk mengubah dunia. – Nelson Mandela",
     "Orang bijak belajar ketika mereka bisa. Orang bodoh belajar ketika mereka terpaksa. – Pepatah Arab",
     "Waktu adalah pedang. Jika kamu tidak menggunakannya dengan benar, ia akan memotongmu. – Pepatah Arab",
 
@@ -41,7 +42,7 @@ def get_quote():
         return random.choice(fallback_quotes)
 
 quote = get_quote()
-today = datetime.utcnow().strftime("%d %B %Y")
+today = datetime.now(timezone.utc).strftime("%d %B %Y")
 
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
@@ -63,4 +64,3 @@ for line in content.splitlines():
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write("\n".join(new_content))
-re
