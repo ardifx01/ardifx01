@@ -2,15 +2,17 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # jalan tiap 6 jam
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      # --- Step 1: Checkout ---
       - uses: actions/checkout@v3
 
+      # --- Step 2: Update Projects (Node.js) ---
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
@@ -19,9 +21,22 @@ jobs:
       - name: Install dependencies
         run: npm install node-fetch@2
 
-      - name: Update README content
+      - name: Update projects section
         run: node .github/workflows/update.js
 
+      # --- Step 3: Update Quote (Python) ---
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install Python deps
+        run: pip install requests
+
+      - name: Update quote section
+        run: python quote.py
+
+      # --- Step 4: Commit Changes ---
       - name: Commit changes
         run: |
           git config --local user.email "actions@github.com"
