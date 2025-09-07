@@ -23,22 +23,22 @@ Hello, I'm a **Developer & Pentester** passionate about building secure & scalab
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,go,nodejs,typescript,laravel,express,react" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=python,php,go,nodejs,typescript,laravel,express,react,django,vite,vue,tailwind,nuxtjs,kotlin,swift,flutter,godot,dart" height="50" style="margin:10px;" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,docker,kubernetes,linux,git,aws,gcp" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,docker,kubernetes,linux,git,aws,gcp,mongodb,firebase,azure" height="50" style="margin:10px;" />
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&title_color=F6E27F&icon_color=C68B59&text_color=D9D9D9&bg_color=1A1A1A&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&title_color=F6E27F&text_color=D9D9D9&bg_color=1A1A1A&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ardifx01&show_icons=true&title_color=F6E27F&icon_color=C68B59&text_color=D9D9D9&bg_color=1A1A1A&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardifx01&layout=compact&title_color=F6E27F&text_color=D9D9D9&bg_color=1A1A1A&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&ring=C68B59&fire=F6E27F&currStreakLabel=F6E27F&sideLabels=D9D9D9&sideNums=D9D9D9&dates=8C8C8C&background=1A1A1A&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ardifx01&ring=C68B59&fire=F6E27F&currStreakLabel=F6E27F&sideLabels=D9D9D9&sideNums=D9D9D9&dates=8C8C8C&background=1A1A1A&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -51,9 +51,9 @@ Hello, I'm a **Developer & Pentester** passionate about building secure & scalab
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-C68B59?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/yourtelegramusername"><img src="https://img.shields.io/badge/Telegram-F6E27F?style=for-the-badge&logo=telegram&logoColor=2B2B2B" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-2B2B2B?style=for-the-badge&logo=firefox&logoColor=F6E27F" /></a>
+  <a href="https://instagram.com/karimm.js"><img src="[https://img.shields.io/badge/LinkedIn-C68B59?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" /></a>
+  <a href="https://t.me/luxious99"><img src="https://img.shields.io/badge/Telegram-F6E27F?style=for-the-badge&logo=telegram&logoColor=2B2B2B" /></a>
+  <a href="https://mnkdigital.tech"><img src="https://img.shields.io/badge/Portfolio-2B2B2B?style=for-the-badge&logo=firefox&logoColor=F6E27F" /></a>
 </p>
 
 ---
