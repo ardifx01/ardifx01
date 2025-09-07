@@ -51,7 +51,7 @@ Hello, I'm a **Developer & Pentester** passionate about building secure & scalab
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/karimm.js"><img src="https://img.shields.io/badge/LinkedIn-C68B59?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/karimm.js"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://t.me/luxious99"><img src="https://img.shields.io/badge/Telegram-F6E27F?style=for-the-badge&logo=telegram&logoColor=2B2B2B" /></a>
   <a href="https://mnkdigital.tech"><img src="https://img.shields.io/badge/Portfolio-2B2B2B?style=for-the-badge&logo=firefox&logoColor=F6E27F" /></a>
 </p>
