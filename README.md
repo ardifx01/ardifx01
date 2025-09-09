@@ -1,11 +1,11 @@
 <!-- Banner Atas -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6E27F,100:C68B59&height=220&section=header&text=Welcome%20to%20My%20GitHub%20✨&fontSize=42&fontAlignY=40&desc=Developer%20|%20Pentester%20|%20Cloud%20Architect&descAlignY=60&descAlign=50&fontColor=2B2B2B" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FF1E90&height=220&section=header&text=Welcome%20to%20My%20GitHub%20✨&fontSize=42&fontAlignY=40&desc=Developer%20|%20Pentester%20|%20Cloud%20Architect&descAlignY=60&descAlign=50&fontColor=FFFFFF" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Spectral&weight=700&size=24&pause=1200&color=C68B59&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+GitHub+Saya;Membangun+aplikasi+aman+dan+scalable;Pentester%20|%20Developer%20|%20Cloud%20Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Spectral&weight=700&size=24&pause=1200&color=FF1E90&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+GitHub+Saya;Membangun+aplikasi+aman+dan+scalable;Pentester%20|%20Developer%20|%20Cloud%20Architect" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,24 +43,13 @@ Hello, I'm a **Developer & Pentester** passionate about building secure & scalab
 
 ---
 
-## 🔥 Latest Projects
-<!--START_PROJECTS-->
-<!--END_PROJECTS-->
-
----
-
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/karimm.js"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/luxious99"><img src="https://img.shields.io/badge/Telegram-F6E27F?style=for-the-badge&logo=telegram&logoColor=2B2B2B" /></a>
-  <a href="https://mnkdigital.tech"><img src="https://img.shields.io/badge/Portfolio-2B2B2B?style=for-the-badge&logo=firefox&logoColor=F6E27F" /></a>
+  <a href="https://instagram.com/karimm.js"><img src="https://img.shields.io/badge/Instagram-FF1E90?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/luxious99"><img src="https://img.shields.io/badge/Telegram-FF0055?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://mnkdigital.tech"><img src="https://img.shields.io/badge/Portfolio-2B2B2B?style=for-the-badge&logo=firefox&logoColor=FF1E90" /></a>
 </p>
 
----
-
-## 📜 Kutipan Hari Ini
-<!--START_QUOTE-->
-<!--END_QUOTE-->
 
 ---
 
@@ -72,5 +61,5 @@ Hello, I'm a **Developer & Pentester** passionate about building secure & scalab
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C68B59,100:F6E27F&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FF1E90&height=120&section=footer"/>
 </p>
