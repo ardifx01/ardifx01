@@ -34,11 +34,11 @@ Hello, I'm a **Developer & Pentester** passionate about building secure & scalab
 ## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ardifx01&show_icons=true&hide_border=true&count_private=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardifx01&layout=compact&title_color=F6E27F&text_color=D9D9D9&bg_color=1A1A1A&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardifx01&layout=compact&count_private=true&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardifx01&ring=C68B59&fire=F6E27F&currStreakLabel=F6E27F&sideLabels=D9D9D9&sideNums=D9D9D9&dates=8C8C8C&background=1A1A1A&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardifx01&count_private=true&theme=radical" height="160"/>
 </p>
 
 ---
