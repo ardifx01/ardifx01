@@ -15,8 +15,8 @@ Halo, saya seorang **Developer & Pentester** yang berfokus pada pengembangan sof
 Hello, I'm a **Developer & Pentester** passionate about building secure & scalable software solutions.  
 
 🎯 Fokus utama:  
-- 🔐 Web & Network Penetration Testing  
-- 🖥️ Backend Development (Node.js, Laravel, Golang)  
+- 🔐 Web & Apps Developer
+- 🖥️ Backend Development (Node.js, PHP, Golang, Python, C#)  
 - ☁️ Cloud Infrastructure (AWS, Docker, Kubernetes)
 
 ---
