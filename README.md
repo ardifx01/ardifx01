@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Spectral&weight=700&size=24&pause=1200&color=FF1E90&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+GitHub+Saya;Membangun+aplikasi+aman+dan+scalable;Pentester%20|%20Developer%20|%20Cloud%20Architect%20|%20Software%20Engineer%20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Spectral&weight=700&size=24&pause=1200&color=FF1E90&center=true&vCenter=true&width=700&lines=Selamat+Datang+di+GitHub+Saya;Membangun+aplikasi+aman+dan+scalable;Software%20Engineer%20|%20Developer%20|%20Cloud%20Architect%20;" alt="Typing SVG" />
 </p>
 
 ---
