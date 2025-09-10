@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 Tentang Saya / About Me
-Halo, saya seorang **Developer & Pentester** yang berfokus pada pengembangan software aman dan scalable.  
+Halo, saya seorang **Developer & Software Engineer** yang berfokus pada pengembangan software aman dan scalable.  
 Hello, I'm a **Developer & Pentester** passionate about building secure & scalable software solutions.  
 
 🎯 Fokus utama:  
