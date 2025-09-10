@@ -1,6 +1,6 @@
 <!-- Banner Atas -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FF1E90&height=220&section=header&text=Welcome%20to%20My%20GitHub%20✨&fontSize=42&fontAlignY=40&desc=Developer%20|%20Pentester%20|%20Cloud%20Architect&descAlignY=60&descAlign=50&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FF1E90&height=220&section=header&text=Welcome%20to%20My%20GitHub%20✨&fontSize=42&fontAlignY=40&desc=Developer%20|%20Pentester%20|%20Cloud%20Architect%20|%20Software%20Engineer&descAlignY=60&descAlign=50&fontColor=FFFFFF" />
 </p>
 
 <!-- Typing Animation -->
