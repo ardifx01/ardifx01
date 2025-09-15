@@ -38,7 +38,7 @@ Hello, I'm a **Developer & Pentester** passionate about building secure & scalab
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardifx01&count_private=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ardifx01&theme=radical" height="160"/>
 </p>
 
 ---
