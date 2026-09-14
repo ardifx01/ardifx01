@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=DHIF&fontSize=72&fontColor=F6E27F&fontAlignY=55&desc=SOFTWARE%20ENGINEER%20%2F%2F%20BUILDER&descAlignY=78&descSize=14&descColor=8B949E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=DHIF&fontSize=72&fontColor=F6E27F&fontAlignY=55&desc=SOFTWARE%20ENGINEER%20%2F%2F%20BUILDER&descAlignY=78&descSize=14&descColor=C9D1D9" width="100%"/>
 
 <br>
 
-### `Nadhif — Dhiff / Rim`
+### `Dhiff / Rim`
 
 **Software Engineer · Backend · Cloud · Security · AI**
 
@@ -13,7 +13,7 @@ with a focus on **performance, security, and maintainability.**
 
 <br>
 
-<a href="https://mnkdigital.tech">
+<a href="https://mnkdigital.id">
 <img src="https://img.shields.io/badge/PORTFOLIO-F6E27F?style=for-the-badge&logoColor=0D1117" />
 </a>
 &nbsp;
@@ -85,77 +85,7 @@ My work ranges from **backend architecture and full-stack applications** to **cl
 
 ---
 
-## `03 — SELECTED WORK`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### MNK Digital
-
-**Personal Engineering Platform**
-
-A digital space for experiments, software projects, infrastructure, AI systems, and technical work.
-
-`Django` `Python` `JavaScript` `Linux`
-
-<br>
-
-<a href="https://mnkdigital.tech">↗ mnkdigital.tech</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Axion AI
-
-**AI Development Assistant**
-
-An AI-powered coding assistant designed around developer workflows, conversational context, and future memory/RAG capabilities.
-
-`Django` `Python` `AI` `JavaScript`
-
-<br>
-
-<a href="https://github.com/ardifx01">↗ view projects</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ILDiS
-
-**Information & Document System**
-
-A web platform focused on structured information, document management, and internal workflows.
-
-`PHP` `Laravel` `MySQL` `JavaScript`
-
-<br>
-
-<a href="https://ildis.mnkdigital.tech">↗ ildis.mnkdigital.tech</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering Experiments
-
-**Things built because they were interesting.**
-
-Automation, APIs, security research, cloud infrastructure, developer tooling, and various projects that don't fit neatly into a category.
-
-`Go` `Python` `Docker` `Linux`
-
-</td>
-</tr>
-</table>
-
----
-
-## `04 — ENGINEERING`
+## `03 — ENGINEERING`
 
 <div align="center">
 
@@ -170,23 +100,23 @@ Automation, APIs, security research, cloud infrastructure, developer tooling, an
 
 ---
 
-## `05 — GITHUB`
+## `04 — GITHUB`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ardifx01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F6E27F&icon_color=C68B59&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ardifx01&show_icons=true&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=F6E27F&icon_color=C68B59&text_color=FFFFFF&count_private=true&include_all_commits=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardifx01&layout=donut&hide_border=true&bg_color=0D1117&title_color=F6E27F&text_color=C9D1D9&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardifx01&layout=donut&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=F6E27F&text_color=FFFFFF&langs_count=8" width="42%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ardifx01&hide_border=true&background=0D1117&ring=F6E27F&fire=C68B59&currStreakLabel=F6E27F&sideLabels=C9D1D9&dates=6E7681" />
+<img src="https://streak-stats.demolab.com?user=ardifx01&theme=dark&hide_border=false&border=30363D&background=0D1117&ring=F6E27F&fire=C68B59&currStreakLabel=F6E27F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" />
 
 </div>
 
 ---
 
-## `06 — EXPERIENCE`
+## `05 — EXPERIENCE`
 
 ```text
 100+ projects
@@ -206,7 +136,7 @@ Also contributed as a technical mentor at **DBS Foundation Coding Camp**, helpin
 
 ---
 
-## `07 — NOW`
+## `06 — NOW`
 
 ```yaml
 focus:
@@ -236,7 +166,7 @@ philosophy:
 
 <br>
 
-<a href="https://instagram.com/karimm.js">
+<a href="https://instagram.com/mnkdigital.id">
 <img src="https://img.shields.io/badge/INSTAGRAM-161B22?style=for-the-badge&logo=instagram&logoColor=F6E27F" />
 </a>
 
@@ -244,7 +174,7 @@ philosophy:
 <img src="https://img.shields.io/badge/TELEGRAM-161B22?style=for-the-badge&logo=telegram&logoColor=F6E27F" />
 </a>
 
-<a href="https://mnkdigital.tech">
+<a href="https://mnkdigital.id">
 <img src="https://img.shields.io/badge/MNKDIGITAL-161B22?style=for-the-badge&logo=googlechrome&logoColor=F6E27F" />
 </a>
 
